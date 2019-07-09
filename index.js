@@ -8,7 +8,7 @@
  */
 
 function stripTags(str) {
-    return String(str).replace(/<\w+(\s+("[^"]*"|'[^']*'|[^>])+)?(\/)?>|<\/\w+>/gi, '');;
+    return String(str).replace(/<\w+(\s+("[^"]*"|'[^']*'|[^>])+)?(\/)?>|<\/\w+>/gi, '');
 }
 
 module.exports = stripTags;

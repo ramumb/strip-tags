@@ -16,7 +16,7 @@ trying to circumvent a tag restriction.
 
 ## Installation
 
-  `npm install strip-tags`
+  `npm install @ramumb/strip-tags`
 
 ## Usage
 

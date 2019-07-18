@@ -1,6 +1,6 @@
 {
   "name": "@ramumb/strip-tags",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Strips a string of any HTML tags.",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,15 @@
     "url": "git+https://github.com/ramumb/strip-tags.git"
   },
   "keywords": [
-    "try",
-    "these",
-    "catch",
-    "attempt",
-    "test"
+    "striptags",
+    "strip_tags",
+    "strip tags",
+    "html",
+    "omit",
+    "remove",
+    "strip",
+    "tag",
+    "tags"
   ],
   "author": "Reginald Mullin <ramumb@yahoo.com> (http://www.reginaldmullin.com)",
   "license": "MIT",

@@ -2,7 +2,7 @@
 
 /**
  * This is a port of the PrototypeJS method stripTags.
- * It Strips a string of any HTML tags.
+ * It strips a string of any HTML tags.
  * @param {string}  A string from which to strip HTML tags
  * @return {string} The result of the function
  */

@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/ramumb/strip-tags/issues"
   },
-  "homepage": "https://github.com/ramumb/try-these#readme",
+  "homepage": "https://github.com/ramumb/strip-tags#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "coveralls": "^3.0.5",
